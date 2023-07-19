@@ -1,8 +1,8 @@
 # C-Moon
-&lt;&lt;ons p(C-Moon is a programming language developed by *wwoa1* the know it all)>>
 
-consist of me tryin to make sometin for you to use so you can save some time :D
+V1 - the (Rocket) Lexer is what makes C-Moon... well C-Moon
 
-it changes the names of stuff like (funtions) and (varriables) and makes them suupppeerrr easy to type out so you wont need any auto fill apps anymore ;)
+Note: The Rocket Lexer will be highly altered over time to bare different more complex addons user's eventually will create for C-Moon
 
-functions are now just the letter "F" and varriables are just the letter "V" and printing something is done by saying "P" just to name a few
+
+
